@@ -1,0 +1,15 @@
+{
+  "name": "randomutlitest",
+  "version": "1.0.0",
+  "main": "randomnessTest.js",
+  "scripts": {
+    "start": "node src/randomnessTest.js"
+  },
+  "author": "spoy",
+  "license": "ISC",
+  "description": "missionUtils의 randomness Test",
+  "dependencies": {
+    "@woowacourse/mission-utils": "^2.2.0"
+  },
+  "type": "module"
+}
